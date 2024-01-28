@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_1" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 419 307">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_名称未設定グラデーション_100);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#_名称未設定グラデーション_492);
+      }
+
+      .cls-3 {
+        fill: url(#_名称未設定グラデーション_492-2);
+      }
+
+      .cls-4 {
+        fill: url(#_名称未設定グラデーション_492-3);
+      }
+    </style>
+    <linearGradient id="_名称未設定グラデーション_100" data-name="名称未設定グラデーション 100" x1="0" y1="153.5" x2="149" y2="153.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#15adff"/>
+    </linearGradient>
+    <linearGradient id="_名称未設定グラデーション_492" data-name="名称未設定グラデーション 492" x1="127.5" y1="162" x2="234.12" y2="162" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#cce0f4"/>
+      <stop offset=".06" stop-color="#c2dcf2"/>
+      <stop offset=".17" stop-color="#a9d2ee"/>
+      <stop offset=".31" stop-color="#7fc2e7"/>
+      <stop offset=".46" stop-color="#46abdd"/>
+      <stop offset=".57" stop-color="#1e9cd7"/>
+      <stop offset=".87" stop-color="#0075be"/>
+      <stop offset=".99" stop-color="#005b97"/>
+    </linearGradient>
+    <linearGradient id="_名称未設定グラデーション_492-2" data-name="名称未設定グラデーション 492" x1="182.88" y1="165" x2="297.13" y2="165" xlink:href="#_名称未設定グラデーション_492"/>
+    <linearGradient id="_名称未設定グラデーション_492-3" data-name="名称未設定グラデーション 492" x1="270" y1="153.5" x2="419" y2="153.5" xlink:href="#_名称未設定グラデーション_492"/>
+  </defs>
+  <path class="cls-1" d="m149,307h0c-32.11,0-60.47-20.91-69.96-51.59L0,0h0c32.11,0,60.47,20.91,69.96,51.59l79.04,255.41Z"/>
+  <path class="cls-2" d="m154,301L232.78,56.54c5.52-16.49-6.76-33.54-24.15-33.54h0c-11.05,0-20.82,7.13-24.23,17.64-21.02,64.76-35.89,104.94-56.91,172.86"/>
+  <path class="cls-3" d="m270,307l-61.7-178.49-24.08-71.98c-5.52-16.49,6.76-33.54,24.15-33.54h0c11.05,0,20.82,7.13,24.23,17.63,20.85,64.19,43.69,112.18,64.54,179.55"/>
+  <path class="cls-4" d="m270,307h0c32.11,0,60.47-20.91,69.96-51.59L419,0h0c-32.11,0-60.47,20.91-69.96,51.59-17.56,56.75-35.12,113.49-52.68,170.24-8.79,28.39-17.57,56.78-26.36,85.17Z"/>
+</svg>
